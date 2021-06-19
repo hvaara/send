@@ -4,7 +4,7 @@
 
 ## NOTICE - May 2021
 
-Mozilla discontinued the Firefox Send service in September 2021. For more information about this, please see the [Mozilla Blog](https://blog.mozilla.org/blog/2020/09/17/update-on-firefox-send-and-firefox-notes/).
+Mozilla discontinued the Firefox Send service in September 2020. For more information about this, please see the [Mozilla Blog](https://blog.mozilla.org/blog/2020/09/17/update-on-firefox-send-and-firefox-notes/).
 
 Please note that the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/) does not "grant any rights in the trademarks, service marks, or logos of any Contributor." You may fork and modify the source code for Firefox Send pursuant to the Mozilla Public License, but you may not create a version of the service that uses Mozilla trademarks or logos.
 
